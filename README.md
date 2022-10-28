@@ -5,5 +5,6 @@ Phone no: 011-11463110
 Email: 2020decwzq@gmail.com
 
 #PIC
-<img src="IMG_20220728_191701.jpg" width="220" length="350"
+
+<img src="IMG_20220728_191701.jpg" width="220" length="350">
 
